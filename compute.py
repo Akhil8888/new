@@ -1,0 +1,5 @@
+n = input("enter a number \n")
+a = str(n) + str(n)
+b = str(n) + str(n) + str(n)
+c = int(n) + int(a) + int(b)
+print("value=" + str(c))
